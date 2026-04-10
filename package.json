@@ -1,0 +1,30 @@
+{
+  "name": "michdev-build",
+  "version": "1.0.0",
+  "description": "MichDev Frontend Build System 2025 (Gulp 5 + esbuild + TypeScript)",
+  "type": "module",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "author": "MICHDEV",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "del": "^8.0.1",
+    "esbuild": "^0.24.0",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^10.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-notify": "^5.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-webp": "^5.1.0",
+    "nunjucks": "^3.2.4",
+    "sass": "^1.97.1",
+    "through2": "^4.0.2",
+    "typescript": "^5.9.3"
+  }
+}

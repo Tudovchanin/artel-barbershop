@@ -1,0 +1,8 @@
+
+/node_modules
+/docs
+/src
+
+
+src/config.php
+docs/config.php
