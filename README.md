@@ -9,7 +9,7 @@
 Заказы отправляются в Telegram через PHP-скрипт (для полноценной работы требуется локальный сервер или хостинг с поддержкой PHP).  
 
 ## 📺 Видеообзор (45 сек)  
-<video src="artel.mp4" width="100%" controls title="Artel Barbershop Preview"></video>
+<video src="./artel.mp4" width="100%" controls title="Artel Barbershop Preview"></video>
 
 ## Основные особенности  
 - 🎡 **Custom Creative Slider** — уникальный слайдер с многослойной анимацией, эффектами трансформации (scale/rotate) и сложными переходами на чистом CSS.  
