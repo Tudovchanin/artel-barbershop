@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/8acd7b01-5667-41f6-8a62-f428f95a2054
 
 
 # Артель — Барбершоп 🚀
@@ -13,7 +12,7 @@ https://github.com/user-attachments/assets/8acd7b01-5667-41f6-8a62-f428f95a2054
 Заказы отправляются в Telegram через PHP-скрипт (для полноценной работы требуется локальный сервер или хостинг с поддержкой PHP).  
 
 ## 📺 Видеообзор (45 сек)  
-<video src="https://tudovchanin.github.io/artel-barbershop/artel.mp4" width="100%" controls title="Artel Barbershop Preview"></video>
+https://github.com/user-attachments/assets/8acd7b01-5667-41f6-8a62-f428f95a2054
 
 ## Основные особенности  
 - 🎡 **Custom Creative Slider** — уникальный слайдер с многослойной анимацией, эффектами трансформации (scale/rotate) и сложными переходами на чистом CSS.  
