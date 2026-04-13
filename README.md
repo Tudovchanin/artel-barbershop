@@ -1,9 +1,4 @@
-
-
-
-
 # Артель — Барбершоп 🚀
-
 
 👉 [**Посмотреть Demo**](https://tudovchanin.github.io/artel-barbershop/)  
 
