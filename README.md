@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/8acd7b01-5667-41f6-8a62-f428f95a2054
+
+
 # Артель — Барбершоп 🚀
 
 
