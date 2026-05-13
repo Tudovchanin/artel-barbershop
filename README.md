@@ -1,6 +1,6 @@
 # Артель — Барбершоп 🚀
 
-👉 [**Посмотреть Demo**](https://tudovchanin.github.io/artel-barbershop/)  
+👉 [**Посмотреть Demo**](https://artel-barber.vercel.app/)  
 
 Рабочая система барбершопа, с мгновенной доставкой заказов в Telegram владельца.  
 
